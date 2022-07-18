@@ -1,2 +1,2 @@
-# Study-Phython
-I study Phython.
+# Study-Python
+I study Python.
